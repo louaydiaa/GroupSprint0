@@ -1,3 +1,17 @@
+![download](https://user-images.githubusercontent.com/36380160/36218905-e19a2b14-11c6-11e8-898a-1db5d21e1944.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 GroupSprint0
 
 Getting Started: This repo contains ToDo, Progress and Done Tasks, the purpose of this repo is to help us learn how to work together in groups.

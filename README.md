@@ -4,6 +4,6 @@ Getting Started: This repo contains ToDo, Progress and Done Tasks, the purpose o
 
 Author : Louay Diaa 37-4078 , Nourhan algendy 37-6811 ,
 
-About : Nourhan ALgendy " Iam a BI studeng in the Guc , my favourit subjects are Enterprise Resource planning and E-business , My hoppy is Playing tennis and Swimming.
+About : Nourhan ALgendy " Iam a BI student in the Guc , my favourit subjects are Enterprise Resource planning and E-business.
 
 Design : 

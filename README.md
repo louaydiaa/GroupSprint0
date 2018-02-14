@@ -21,7 +21,6 @@ This repo contains ToDo, Progress and Done Tasks, the purpose of this repo is to
 Louay Diaa 37-4078 , Nourhan algendy 37-6811 ,Amr Samih 37-1965
 
 ### About 
-Nourhan ALgendy "  _Iam a BI student in the Guc , my favourit subjects are Enterprise Resource planning and E-business_
+Nourhan ALgendy "  _Iam a BI student in the Guc , my favourit subjects are Enterprise Resource planning and E-business_"
 
-Amr Samih _A corrupted young mind at the age of twenty_
-Design : 
+Amr Samih "_A corrupted young mind at the age of twenty_"

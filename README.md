@@ -29,19 +29,3 @@ Seif Hatem "_Hacking is not a crime :p_"
 
 Louay Diaa "50 percent of the time i'm sleeping"
 
- _ _ _ _ _ _ _ _ _ _ _ _ 
-|                          -----------------------
-|                                                |
-|                                                |
-|                                                |
-|                         -----------------------|
-|                         |                       
-|                         |                                                
-|                         |                                                                                       
-|                         |-----------------------                     
-|                                                                     
-|
-| _ _ _ _ _ _ _ _ _ _ _ _   
-
-(Supposed to be a C2)
-

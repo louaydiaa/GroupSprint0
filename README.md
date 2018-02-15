@@ -21,7 +21,7 @@ This repo contains ToDo, Progress and Done Tasks, the purpose of this repo is to
 Louay Diaa 37-4078 , Nourhan algendy 37-6811 , Amr Samih 37-1965, Seif Hatem 37-0958
 
 ### About 
-Nourhan ALgendy "_I love chocolates!!_"
+Nourhan ALgendy "_I love chocolates!!<3_"
 
 Amr Samih "_A corrupted young mind at the age of twenty_"
 

@@ -18,7 +18,7 @@
 This repo contains ToDo, Progress and Done Tasks, the purpose of this repo is to help us learn how to work together in groups.
 
 ### Authors 
-Louay Diaa 37-4078 , Nourhan algendy 37-6811 , Amr Samih 37-1965, Seif Hatem 37-0958
+Louay Diaa 37-4078 , Nourhan algendy 37-6811 , Amr Samih 37-1965, Seif Hatem 37-0958, Mona Askary 37-1178
 
 ### About 
 Nourhan ALgendy "_I love chocolates!!<33_"
@@ -28,3 +28,6 @@ Amr Samih "_A corrupted young mind at the age of twenty_"
 Seif Hatem "_Hacking is not a crime :p_"
 
 Louay Diaa "_50 percent of the time i'm sleeping_"
+
+Mona Askary "_I eat most of the time xxxD_"
+
